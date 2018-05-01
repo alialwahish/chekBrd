@@ -2,7 +2,7 @@ chk="* * * *"
 s=1
 print(chk)
 
-for c in range(0,8):
+for c in range(0,7):
     if s %2!=0:
         chk=" "+chk
         
